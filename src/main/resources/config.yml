@@ -1,0 +1,16 @@
+messages:
+  invalid_command: "Invalid command usage!"
+  player_banned: "Player %player% has been banned for %time%!"
+  player_banned_forever: "Player %player% has been permanently banned!"
+  player_not_banned: "Player %player% is not banned."
+  ban_message: "You are banned for %time%. Reason: %reason%"
+  ban_message_forever: "You are permanently banned. Reason: %reason%"
+  ban_no_reason: "No reason specified"
+  invalid_time_format: "Invalid time format: %s"
+  database_error: "Could not connect to SQLite database!"
+
+time_units:
+  days: "days"
+  hours: "hours"
+  minutes: "minutes"
+  seconds: "seconds"
