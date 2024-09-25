@@ -17,3 +17,6 @@ n
 >src/main/java/com/sal4i/sbansystem/managers/ConfigManager.java,f\8\f86441f1499f163ed1461a83bf66000103b29acd
 k
 ;src/main/java/com/sal4i/sbansystem/managers/BanManager.java,4\6\46f4d4c642b5b32d5d1fba7350c0c7941948f73e
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
